@@ -1,9 +1,9 @@
 import {Box, Flex, HStack,Icon, Text } from '@chakra-ui/react'
 
 import React from 'react'
-import Icon1 from './app/Icon1'
-import Icon2 from './Icon2'
-import Icon3 from './Icon3'
+import Icon1 from './icons/Icon1'
+import Icon2 from './icons/Icon2'
+import Icon3 from './icons/Icon3'
 
 export default function Features() {
   return (
